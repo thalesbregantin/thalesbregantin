@@ -1,24 +1,18 @@
 # Thales Bregantin
 
-<div align="center">
-  <a href="https://github.com/thalesbregantin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thalesbregantin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbregantin&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-</div>
-    
-##
-    
-<div> 
-  <a href = "mailto:thalesbregantin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thales-bregantin-4b3315129" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+AI Engineer em São Paulo. Construo agentes de IA, RAG e automações em Python
+que rodam em operações reais (Total Express, Mercado Livre, Kangu).
 
-</div>
+## O que eu faço
+- Agentes de IA e LLMs: LangChain, RAG, guardrails contra prompt injection, IA local com Ollama
+- Backend: Python, FastAPI, Playwright, SQL, testes com pytest/BDD
+- Dados e automação: n8n, ETL, Power BI, BigQuery
 
-  
+## Destaques
+- Extrator corporativo (FastAPI + Playwright): consolidação de 3 horas para 15 minutos
+- Scoring de risco e fraude: [fraud-risk-scoring](https://github.com/thalesbregantin/fraud-risk-scoring)
+- API REST com JWT: [taskflow-api](https://github.com/thalesbregantin/taskflow-api)
 
-  
+## Contato
+<a href="mailto:thalesbregantin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thales-bregantin-4b3315129" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
